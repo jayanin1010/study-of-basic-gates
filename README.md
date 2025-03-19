@@ -1,4 +1,8 @@
-### study-of-basic-gates
+### Name: Jayani N
+### Reg no: 24900024
+
+
+### EXP1- study-of-basic-gates
 
 **AIM:** 
 
@@ -82,11 +86,11 @@ Y= A⊕B
 
 
  
-**Logic symbol & Truthtable**
+**Truthtable**
 ![Screenshot 2025-03-05 144725](https://github.com/user-attachments/assets/7b336df8-4486-46f0-aa83-79429b9ed1c5)
 
+**RTL**
 ![image](https://github.com/user-attachments/assets/9d8733c5-d598-45b1-8f52-40e7f679b7f0)
-
 
 
 
