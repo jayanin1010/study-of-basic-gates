@@ -64,9 +64,7 @@ Y= A⊕B
 
 **PROGRAM**
 
-   Developed by: Jayani N
- 
-   RegisterNumber: 24900024
+
 
    Program for logic gates and verify its truth table in quartus using Verilog programming
 
@@ -92,7 +90,7 @@ Y= A⊕B
 
 
 
-**RTL realization Output:** 
+**Waveform:** 
 
 ![image](https://github.com/user-attachments/assets/c747fdb8-add6-4bb4-bc93-570304d63da6)
 
